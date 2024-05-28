@@ -1,0 +1,602 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin: auto;
+    font-family: arial;
+    width: 1440px;
+    
+}
+.Logo{
+    color: #040062;
+    width: 76px;
+    height: 24px;
+    margin-left: 132px;
+    position: relative;
+    top: 0;
+    
+
+  
+}
+.All_header_menu{
+    width: 1440px;
+    height: 74px;
+    margin: auto;
+    
+   
+
+}
+.Top_menu{
+    width: 393px;
+    height: 42px;
+    margin-left: 518px;
+    color: #040062;
+           
+}
+.Top_menu a{
+    text-decoration: none;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+   
+    
+}
+li{
+    display: inline-block;
+   
+}
+.right_menu{
+    display: flex;
+    width: 242px;
+    height: 42px;
+    margin-left: 1066px;
+    position: relative;
+    top: 0;
+    margin-top: -45px;
+   
+    
+    
+}
+.right_menu a{
+    text-decoration: none;
+    padding-bottom: 50px;
+}
+.knop a{
+    color: white;
+}
+
+.heart{
+    background-color:lightgoldenrodyellow;
+    margin: auto;
+    width: 1440px;
+    height: 687px;
+    position: relative;
+   
+}
+.levoe_okno{
+    width: 282px;
+    height: 365px;
+    margin-left: 60px; 
+    padding-top: 280px;
+    
+    
+    
+   
+   
+}
+.pravoe_okno{
+    width: 302px;
+    height: 354px;
+    margin-left: 400px;
+    padding-top: 280px;
+    
+
+}
+.okna{
+    display: flex;
+    justify-content: space-around;
+    
+    
+  
+    
+   
+}
+
+.levaja_tetja{
+    width: 335px;
+    height: 247px;
+    margin-left: 32px;
+   
+
+}
+.levaja_tetja:hover{
+    transform: scale(1.2);
+}
+.pravaja_tetja{
+    width: 341px;
+    height: 234px;
+    margin-left: 0px;
+    margin-top: 14px;
+    
+    
+
+}
+.pravaja_tetja:hover{
+    transform: scale(1.2);
+}
+.teti{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    padding-top: 60px;
+    width: 1296px;
+    top: 0;
+    margin-top:-240px ;
+   
+}
+
+.Nnn{
+    width: 600px;
+    height: 66px;
+    margin-left: 100px;
+    position: relative;
+    top: 0;
+    margin-top: 75px;
+    
+}
+.tekst{
+   margin-left:480px;
+   position: absolute;
+   top: 0;
+   margin-top: 100px;
+   margin-left: 510px;
+   
+   }
+   .stranica1{
+    width: 1440px;
+    height: 648px;
+    display: flex;
+    padding-top: 100px;
+    margin: auto;
+    
+    }
+    .wiiin{
+        width: 322px;
+        height: 390px;
+        margin-top: -400px;
+        margin-left: 450px;
+
+
+
+
+
+
+    }
+   .blok1rozovii{
+    background-color: rgb(250, 212, 218);
+   width: 760px;
+   height: 648px;
+   margin-left: -5px;
+
+   
+   
+
+   }
+   
+   .blok2{
+    width: 760px;
+    height: 648px;
+    margin-left: -10px;
+    padding-top: 180px;
+    background-color: white
+
+          
+   }
+  
+   .chat_na_kartinke{
+    width: 247px;
+    height: 522px;
+    border-radius: 37px;
+    margin: auto;
+    margin-top:  -550px;
+    padding-right: 740px;
+    position: relative;
+    
+             
+    }
+    
+.baba{
+    width: 263px;
+    height: 303px;
+    margin: auto;
+    margin-top:  -275px;
+    padding-right: 50px;
+    position: relative;
+
+}
+.baba:hover{
+    transform: scale(1.2);
+}
+.stranica2{
+    width: 1440px;
+    height: 648px;
+    margin: auto;
+    display: flex;
+
+}
+.blok3{
+    width: 705px;
+    height: 648px;
+    
+    position: relative;
+    
+}
+.blok4goluboi{
+    width: 760px;
+    height: 640px;
+    background-color: lightgoldenrodyellow;
+    position: relative;
+    margin-top: 15px;
+    
+
+}
+.text2{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 200px;
+    
+}
+.chat2{
+    width: 234px;
+    height: 508px;
+    border-radius: 37px;
+    margin: auto;
+    position: relative;
+    margin-top: -550px;
+    padding-left: 740px;
+    
+}
+.okoshhko{
+    width: 281px;
+    height: 261px;
+    margin: auto;
+    position: relative;
+    margin-top: -430px;
+    padding-left: 160px;
+    
+}
+.teti2{
+    width: 351px;
+    height: 319px;
+    margin: auto;
+    margin-top: -85px;
+    padding-right:300px;
+    position: relative;
+    
+         
+}
+.teti2:hover{
+    transform: scale(1.2);
+}
+
+.stranica3{
+    width: 1440px;
+    height: 648px;
+    display: flex;
+    margin: auto;
+    position: relative;
+    margin-top: -22px;
+   
+   
+}
+.blok5rozovii{
+    background-color: lightblue;
+    width: 720px;
+    height: 648px;
+    position: relative;
+    
+    
+    
+    
+}
+.blok6{
+    background-color:white;
+    width: 720px;
+    height: 648px;
+    position: relative;
+  
+   
+    
+}
+.ttttekst{
+    margin-left: 100px;
+    margin-top: 250px;
+
+}
+.domishka{
+    width: 392px;
+    height: 476px;
+    position: relative;
+    margin: auto;
+
+    
+    margin: -470px 430px;
+    
+
+}
+.zjenshina{
+    width: 220px;
+    height: 288px;
+    position: relative;
+    margin: auto;
+    
+    margin-left: 600px;
+    margin-top: 175px;
+  
+    
+
+}
+.zjenshina:hover{
+    transform: scale(1.2);
+}
+.chat3{
+    width: 234px;
+    height:508px ;
+    border-radius: 37px;
+    margin-top: 100px;
+    margin-left: 200px;
+    position: relative;
+}
+.stranica4{
+    width: 1440px;
+    height: 648px;
+    display: flex;
+    margin: auto;
+    
+}
+
+.blok7{
+    width: 720px;
+    height: 648px;
+
+}
+.blok8goluboi{
+    background-color: lightgoldenrodyellow;
+    width: 720px;
+    height: 648px;
+}
+.tkst{
+    margin-top: 300px;
+    margin-left: 100px;
+}
+.chat4{
+    width: 247px;
+    height:522px ;
+    border-radius: 37px;
+    margin-top: 90px;
+    margin-left: 250px;
+
+}
+.okno6{
+    width: 303px;
+    height: 391px;
+    margin-top: -390px;
+    margin-left: 590px;
+    
+
+}
+.eshe_odna_tetka{
+    width: 218px;
+    height: 289px;
+    margin-left: 610px;
+    position: absolute;
+    margin-top: -290px;
+}
+.eshe_odna_tetka:hover{
+    transform: scale(1.2);
+}
+.stranica5{
+    width: 1440px;
+    height: 648px;
+    display: flex;
+    
+    
+}
+.blok9rozovii{
+    background-color: rgb(250, 212, 218);
+    width: 720px;
+    height: 648px;
+
+}
+.blok10{
+    width: 720px;
+    height: 648px;
+
+}
+.chat5{
+    width: 234px;
+    height: 508px;
+    border-radius: 37px;
+    margin-top: 100px;
+    margin-left: 200px;
+
+}.blok10 a{
+    color: white;
+    text-decoration: none;
+}
+.txt{
+    margin-top: 180px;
+    margin-left:90px;
+
+}
+.home{
+    width: 331px;
+    height: 339px;
+    position: relative;
+    margin: auto;
+    margin: -350px 450px;
+}
+.babulja{
+    width: 194px;
+    height: 285px;
+    position: relative;
+    margin: auto;
+    
+    margin-left: 600px;
+    margin-top: 80px;
+
+}
+.babulja:hover{
+    transform: scale(1.2);
+}
+.stranica6{
+    width: 1440px;
+    height: 500px;
+    position: relative;
+ 
+  
+}
+
+.blokdlinnii{
+    Width:1440px;
+    Height:395px;
+    background-color: lightgoldenrodyellow;
+    margin: auto;
+    margin-top: 80px;
+
+    
+}
+.vvod{
+    display: flex;
+
+    
+}
+.vvod a{
+    color: white;
+    text-decoration: none;
+}
+
+.vvod input{
+    width:341px ;
+    height: 52px;
+    border-radius: 36px;
+    font-size: 14px;
+    color: #6D758D;
+    padding-left: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.posledn {
+    display: flex;
+    padding-top: 15px;
+}
+.tekk{
+    margin-left: 800px;
+    padding-top: 80px;
+}
+.logotip{
+    position: absolute;
+    margin: 1200px;
+    margin-top:-530px ;
+    width: 151px;
+    height:70px ;
+
+}
+.lastwind{
+    width: 376px;
+    height: 483px;
+    border: 4px;
+    margin-top: -570px;
+    margin-left: 200px;
+    position: absolute;
+
+}
+.wind_woman{
+width: 328px;
+height:355px;
+margin-top: -470px;
+margin-left: 65px;
+position: absolute;
+}
+.wind_woman:hover{
+    transform: scale(1.2);
+}
+
+.vse_stolbi{
+    display: flex;
+    justify-content: space-between;
+    margin: 70px;
+    color:#040062 ;
+}
+.logo_vector{
+    width:83px ;
+    height:24px ;
+}
+
+
+.gif{
+    display: flex;
+    justify-content: space-around;
+}
+.insta{
+    color: black;
+}
+.insta:hover{
+   transform: scale(1.2)
+}
+.fase{
+    color: black;
+}
+.fase:hover{
+   transform: scale(1.2)
+}
+.twit{
+    color: black;
+}
+.twit:hover{
+   transform: scale(1.2)
+}
+.lanch{
+    color: black;
+}
+.lanch:hover{
+   transform: scale(1.2)
+}
+.stolb1 a{
+    text-decoration: none;
+    color: #040062 ;
+}
+.stolb2 a{
+    text-decoration: none;
+    color: #040062 ;
+}
+.stolb3 a{
+    text-decoration: none;
+    color: #040062 ;
+}
+.dropdown{
+    color: #040062 ;
+}
+
+
+
+
+
+
+
+
+
